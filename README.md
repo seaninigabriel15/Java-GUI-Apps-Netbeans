@@ -1,4 +1,4 @@
-# :coffee: Java-GUI-Apps-Netbeans
+# :coffee: Java GUI Apps Netbeans
 
 
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
